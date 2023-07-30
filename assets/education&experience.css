@@ -175,6 +175,10 @@ span {
   .education h2,h5 ,h3, li{
     font-size: 1rem;
   }
+
+  .experience h2, h5{
+    font-size: 1.2rem;
+  }
   
 }
 
