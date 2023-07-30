@@ -3,7 +3,10 @@
     nav ul li{
         padding:.5rem .5rem!important;
     }
-    
+    .navbar-nav{
+        padding-top:1rem;
+        padding-bottom:1rem;
+      }
   }
   @media only screen and (max-width: 792px) {
     .hero-text h1{
@@ -44,9 +47,7 @@ text-shadow: 1px 1px 3px #000;
         margin-top:4rem;
         margin-bottom:3rem;
     }
-    .image{
-        margin-top:1rem;
-    }
+  
     .cv{
         padding:1rem;
     }
