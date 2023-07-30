@@ -176,14 +176,17 @@ span {
   line-height: 2rem !important;
 }
   .education h2{
-    font-size: 1.5rem !important;
-line-height:2rem;
+    font-size: 1.2rem !important;
+
   }
 
   .experience h2, h5{
     font-size: 1.2rem !important;
+   
   }
-  
+  .experience h2{
+      line-height:2rem !important;
+  }
 }
 
 
