@@ -140,10 +140,14 @@ h5 {
     margin-left: 1rem;
   }
 
-  .projects li{
-    font-size: 1rem;
+  .projects_content li{
+    font-size: 1rem !important;
+    line-height:2rem !important;
   }
-  .projects li{
-    line-height:2rem;
+
+  .projects_content li:last-child{
+    padding-top:1rem;
   }
+   
+ 
 }
