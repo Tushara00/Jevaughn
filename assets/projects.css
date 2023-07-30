@@ -52,7 +52,7 @@ h5 {
 /*award-hero-banner*/
 
 .project-hero-banner {
-  background-image: url(images/projects.JPG);
+  background-image: url(images/projects.jpg);
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -127,6 +127,9 @@ h5 {
 
   .project-text h1 {
     font-size: 18px;
+  }
+  .projects_content{
+    padding-bottom:2rem;
   }
 }
 

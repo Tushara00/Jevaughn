@@ -164,13 +164,18 @@ span {
 @media only screen and (max-width: 792px) {
   .education,
   .experience{
-    padding-right:4rem !important;
-    padding-left:4rem !important;
+    padding-right:2rem !important;
+    padding-left:2rem !important;
   }
 
   .experience{
     margin-bottom: 2rem;
   }
+
+  .education h2,h5 ,h3, li{
+    font-size: 1rem;
+  }
+  
 }
 
 
